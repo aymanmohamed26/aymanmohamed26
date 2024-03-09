@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aymanmohamed26/tazaa.git](https://github.com/aymanmohamed26/tazaa.git)
 
-- 📫 How to reach me  AymanM.Thabet.Net@gmail.com**
+- 📫 How to reach me  AymanM.Thabet.Net@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
